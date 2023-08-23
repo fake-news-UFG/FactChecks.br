@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'FactChecksbr '
+message: Collection of Portuguese Fact-Checking Benchmarks.
+type: dataset
+authors:
+  - email: julianarsg13@gmail.com
+    given-names: Juliana
+    name-particle: R. S.
+    family-names: Gomes
+    affiliation: Federal University of Goiás
+    orcid: 'https://orcid.org/0000-0001-6900-1931'
+identifiers:
+  - type: doi
+    value: 10.57967/hf/1016
+    description: Hugging Face
+repository-code: 'https://github.com/fake-news-UFG/FactChecks.br'
+repository-artifact: 'https://huggingface.co/datasets/fake-news-UFG/FactChecksbr'
+keywords:
+  - fake news
+  - fact-checking
+  - portuguese
+license: MIT
