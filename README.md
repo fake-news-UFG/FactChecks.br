@@ -46,7 +46,9 @@ Review urls were tagged using review id.
 
 ### Duplication
 There are 23,467 sources in total, of which there are 20,028 unique sources. The biggest overlap is between "FakeRecogna" and "Central de Fatos".
-There is no source in common between all datasets.
+There is no source in common between all datasets. 
+
+From 3303 duplicated sources,  we excluded 240 contradictory examples, in which one dataset indicates that source alledges “fake” while not alledges as "not fake".
 
 ![image](https://github.com/fake-news-UFG/FactChecks.br/assets/28462295/f2893e43-963a-46e7-a59c-8ece327cc215)
 
