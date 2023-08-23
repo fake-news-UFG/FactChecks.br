@@ -12,3 +12,15 @@
   </b>
   </p>
 </div>
+
+### Dataset
+
+Notebook generation script is located at [generate.ipynb](generate.ipynb).
+
+#### Usage
+
+```python
+from datasets import load_dataset
+
+data = load_dataset("fake-news-UFG/FactChecks.br")
+```
