@@ -68,7 +68,16 @@ If you evaluated any dataset, please feel free to pull a request. :smile:
 | FakeNewsSetGen   | Detective                       | 97,93%   | 97,93%   | \-       | \-       | [repo](https://github.com/kamplus/FakeNewsSetGen)                                                    |
 | Fact-check_tweet | XLM-R                           | 84,08%   | \-       | \-       | 83,63%   | [paper](https://arxiv.org/pdf/2202.07094.pdf)                                                              |
 | FakeRecogna    | MLP + BoW                       | 93,1%    | 93,1%    | 93,1%    | 93,0%    | [repo](https://github.com/Gabriel-Lino-Garcia/FakeRecogna)   
+
 ## Citing
+```bibtex
+@misc{FactChecksbr,
+author = {R. S. Gomes, Juliana},
+title = {FactChecks.br},
+url = {https://github.com/fake-news-UFG/FactChecks.br},
+doi = { 10.57967/hf/1016 },
+}
+```
 
 ## Acknowledgments
 
