@@ -28,7 +28,7 @@
 ```python
 from datasets import load_dataset
 
-data = load_dataset("fake-news-UFG/FactChecks.br")
+data = load_dataset("fake-news-UFG/FactChecksbr")
 ```
 We addionally upload raw versions from [Fake.br](https://huggingface.co/datasets/fake-news-UFG/fakebr), [FakeRecogna](https://huggingface.co/datasets/fake-news-UFG/FakeRecogna), [Central de Fatos](https://huggingface.co/datasets/fake-news-UFG/central_de_fatos), and [FakeNewsSet](fake-news-UFG/FakeNewsSet).
 
