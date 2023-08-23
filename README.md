@@ -67,7 +67,7 @@ If you evaluated any dataset, please feel free to pull a request. :smile:
 | Fake.br          | BoW + MLP                       | 88,65%   | \-       | \-       | \-       | [repo](https://github.com/Talendar/br_fake_news_detection)                                           |
 | FakeNewsSetGen   | Detective                       | 97,93%   | 97,93%   | \-       | \-       | [repo](https://github.com/kamplus/FakeNewsSetGen)                                                    |
 | Fact-check_tweet | XLM-R                           | 84,08%   | \-       | \-       | 83,63%   | [paper](https://arxiv.org/pdf/2202.07094.pdf)                                                              |
-| FakeRecogna\*    | MLP + BoW                       | 93,1%    | 93,1%    | 93,1%    | 93,0%    | [repo](https://github.com/Gabriel-Lino-Garcia/FakeRecogna)   
+| FakeRecogna    | MLP + BoW                       | 93,1%    | 93,1%    | 93,1%    | 93,0%    | [repo](https://github.com/Gabriel-Lino-Garcia/FakeRecogna)   
 ## Citing
 
 ## Acknowledgments
