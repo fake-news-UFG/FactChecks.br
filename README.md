@@ -53,6 +53,8 @@ From 3303 duplicated sources,  we excluded 130 contradictory examples, in which 
 
 ![image](https://github.com/fake-news-UFG/FactChecks.br/assets/28462295/72e9e78f-4913-4d54-9403-8090edb97631)
 
+### Samples per class
+![image](https://github.com/fake-news-UFG/FactChecks.br/assets/28462295/40de40a7-d331-4ac5-8bca-68795110d719)
 
 ## Evaluation
 If you evaluated any dataset, please feel free to pull a request. :smile:
