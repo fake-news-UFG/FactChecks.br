@@ -18,10 +18,10 @@
 | Dataset | Type | Domain | Anotation | Data time | Number of samples |
 | --- | --- | --- | --- | --- | --- |
 | [Fake.br](https://sites.icmc.usp.br/taspardo/PROPOR2018-MonteiroEtAl.pdf) | Claim | News | Annotated | 01/2016 - 01/2018 | 7.200 |
-| [FakeRecogna](https://dl.acm.org/doi/10.1145/3428658.3430965) | Source | News | Agency | 03/2017  - 05/2020 | 11.902 |
-| [Central de Fatos](https://sol.sbc.org.br/index.php/dsw/article/view/17421/17257) | Source | News | Agency | 01/2013 - 05/2021 | 10.551 |
-| [Fact-check_tweet (pt split)](https://ceur-ws.org/Vol-3199/) | Claim-source pair | Tweets-Notícias | Auto-Agency | 2019 - 2021 | 803 - 803 |
-| [FakeNewsSet](https://dl.acm.org/doi/10.1145/3428658.3430965) | Claim-source pair | Tweets-Notícias | Auto-Agencys |  | 27.059 - 600 |
+| [FakeRecogna](https://dl.acm.org/doi/10.1145/3428658.3430965) | Source | News | Agency | 03/2017  - 05/2020 | 11.773 |
+| [Central de Fatos](https://sol.sbc.org.br/index.php/dsw/article/view/17421/17257) | Source | News | Agency | 01/2013 - 05/2021 | 10.461 |
+| [Fact-check_tweet (pt split)](https://ceur-ws.org/Vol-3199/) | Claim-source pair | Tweets-Notícias | Auto-Agency | 2019 - 2021 | 656 - 656 |
+| [FakeNewsSet](https://dl.acm.org/doi/10.1145/3428658.3430965) | Claim-source pair | Tweets-Notícias | Auto-Agencys |  | 26.970 - 598 |
 
 ## Usage 🤗
 
@@ -42,15 +42,17 @@ Review urls were tagged using review id.
 ## Data Analysis
 
 #### Agencies per dataset
-![image](https://github.com/fake-news-UFG/FactChecks.br/assets/28462295/d3dc1ed5-aae9-488c-9564-adfa460554c0)
+![image](https://github.com/fake-news-UFG/FactChecks.br/assets/28462295/9f0cb6ce-451d-45a4-ad37-bc930dc043c6)
+
 
 ### Duplication
 There are 23,467 sources in total, of which there are 20,028 unique sources. The biggest overlap is between "FakeRecogna" and "Central de Fatos".
 There is no source in common between all datasets. 
 
-From 3303 duplicated sources,  we excluded 240 contradictory examples, in which one dataset indicates that source alledges “fake” while not alledges as "not fake".
+From 3303 duplicated sources,  we excluded 130 contradictory examples, in which one dataset indicates that source alledges “fake” while not alledges as "not fake".
 
-![image](https://github.com/fake-news-UFG/FactChecks.br/assets/28462295/f2893e43-963a-46e7-a59c-8ece327cc215)
+![image](https://github.com/fake-news-UFG/FactChecks.br/assets/28462295/72e9e78f-4913-4d54-9403-8090edb97631)
+
 
 ## Evaluation
 If you evaluated any dataset, please feel free to pull a request. :smile:
