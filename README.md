@@ -42,7 +42,8 @@ Review urls were tagged using review id.
 ## Data Analysis
 
 #### Agencies per dataset
-![image](https://github.com/fake-news-UFG/FactChecks.br/assets/28462295/55d24e32-4a94-4340-be3d-69eb7a0621de)
+![image](https://github.com/fake-news-UFG/FactChecks.br/assets/28462295/e6167312-3a0c-40e4-8f5d-ac20153f0c17)
+
 
 
 
