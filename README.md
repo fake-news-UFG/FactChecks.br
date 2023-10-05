@@ -20,8 +20,8 @@
 | [Fake.br](https://sites.icmc.usp.br/taspardo/PROPOR2018-MonteiroEtAl.pdf) | Claim | News | Annotated | 01/2016 - 01/2018 | 7.200 |
 | [FakeRecogna](https://dl.acm.org/doi/10.1145/3428658.3430965) | Source | News | Agency | 03/2017  - 05/2020 | 11.773 |
 | [Central de Fatos](https://sol.sbc.org.br/index.php/dsw/article/view/17421/17257) | Source | News | Agency | 01/2013 - 05/2021 | 10.461 |
-| [Fact-check_tweet (pt split)](https://ceur-ws.org/Vol-3199/) | Claim-source pair | Tweets-Notícias | Auto-Agency | 2019 - 2021 | 656 - 656 |
-| [FakeNewsSet](https://dl.acm.org/doi/10.1145/3428658.3430965) | Claim-source pair | Tweets-Notícias | Auto-Agencys |  | 26.970 - 598 |
+| [Fact-check_tweet (pt split)](https://ceur-ws.org/Vol-3199/) | Claim-source pair | Tweets-News | Auto-Agency | 2019 - 2021 | 656 - 656 |
+| [FakeNewsSet](https://dl.acm.org/doi/10.1145/3428658.3430965) | Claim-source pair | Tweets-News | Auto-Agencys |  | 26.970 - 598 |
 
 ## Usage 🤗
 
