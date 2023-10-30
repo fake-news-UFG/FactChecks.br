@@ -86,4 +86,4 @@ doi = { 10.57967/hf/1016 },
 ```
 
 ## Acknowledgments
-
+This work has been supported by the FAPEG (Fundação de Amparo à Pesquisa do Estado de Goiás) and ANATEL (Agência Nacional de Telecomunicações). 
